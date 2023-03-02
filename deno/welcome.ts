@@ -1,0 +1,1 @@
+console.log("コマンド:deno run welcome.ts")
